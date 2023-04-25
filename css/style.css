@@ -3439,3 +3439,9 @@ body.light .resumo_fn_modalbox .modal_content::-webkit-scrollbar-thumb {
         display: none
     }
 }
+
+/* @media(min-width: 768px) {
+    .resumo_fn_tabs .tab_header a{
+        font-size: 18px;
+    }
+  } */
